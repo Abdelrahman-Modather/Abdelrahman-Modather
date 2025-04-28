@@ -1,7 +1,3 @@
-Got it! Here's your updated, professional yet still energetic `README.md` based on your **experience, education, and skills** you shared:
-
----
-
 # 👋 Hey there! I'm Abdelrahman Modather!
 
 Welcome to my GitHub — where real-world business needs meet clean, scalable code! 💻🚀
