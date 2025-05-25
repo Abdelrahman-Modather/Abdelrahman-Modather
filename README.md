@@ -14,7 +14,7 @@
 
 Welcome to my GitHub — where **real-world business needs** meet **clean, scalable code**! I'm a passionate **Full-Stack Web Developer** who specializes in building secure, scalable, and high-performance digital solutions.
 
-<img align="right" alt="Coding" width="400" height="350" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" alt="Coding" width="280" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="20px"> Building modern web applications with **ASP.NET Core** & **MEAN Stack**
 - <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="20px"> Crafting **Business Intelligence dashboards** with Power BI
