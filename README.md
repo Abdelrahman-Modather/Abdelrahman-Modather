@@ -26,13 +26,13 @@ Welcome to my GitHub — where **real-world business needs** meet **clean, scala
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px"> Education
 
-<table>
+<table style="top:20px;">
   <tr>
-    <td><img src="https://cdn-icons-png.flaticon.com/512/201/201614.png" width="30px"></td>
+    <td><img src="https://eib.eg/wp-content/uploads/2018/09/iti_logo.5b9a0fd125be-300x133.png" width="30px"></td>
     <td><strong>Information Technology Institute (ITI)</strong><br>Professional Development & BI-infused CRM<br><em>Oct 2024 – July 2025</em></td>
   </tr>
   <tr>
-    <td><img src="https://cdn-icons-png.flaticon.com/512/3595/3595030.png" width="30px"></td>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs334txo76LG_SjC6DqSpf-G6uv4Yp1TFxKQ&s" width="30px"></td>
     <td><strong>Bachelor's Degree in Commerce</strong><br>Aswan University, Faculty of Commerce, Economics Department<br><em>Oct 2020 – June 2024</em></td>
   </tr>
 </table>
@@ -91,12 +91,12 @@ Design Patterns • Unit Testing • Clean Architecture
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35px"> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Modather&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-Modather&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelrahman-Modather&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
