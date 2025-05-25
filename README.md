@@ -26,16 +26,17 @@ Welcome to my GitHub — where **real-world business needs** meet **clean, scala
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px"> Education
 
-<table style="top:20px;">
-  <tr>
-    <td><img src="https://eib.eg/wp-content/uploads/2018/09/iti_logo.5b9a0fd125be-300x133.png" width="30px"></td>
-    <td><strong>Information Technology Institute (ITI)</strong><br>Professional Development & BI-infused CRM<br><em>Oct 2024 – July 2025</em></td>
-  </tr>
-  <tr>
-    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs334txo76LG_SjC6DqSpf-G6uv4Yp1TFxKQ&s" width="30px"></td>
-    <td><strong>Bachelor's Degree in Commerce</strong><br>Aswan University, Faculty of Commerce, Economics Department<br><em>Oct 2020 – June 2024</em></td>
-  </tr>
-</table>
+<div align="left">
+  
+  ### 🎯 Information Technology Institute (ITI)
+  **Professional Development & BI-infused CRM**  
+  📅 *Oct 2024 – July 2025*
+  
+  ### 🎓 Bachelor's Degree in Commerce
+  **Aswan University, Faculty of Commerce, Economics Department**  
+  📅 *Oct 2020 – June 2024*
+  
+</div>
 
 ---
 
