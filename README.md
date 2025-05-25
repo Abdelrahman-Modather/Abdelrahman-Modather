@@ -14,7 +14,7 @@
 
 Welcome to my GitHub — where **real-world business needs** meet **clean, scalable code**! I'm a passionate **Full-Stack Web Developer** who specializes in building secure, scalable, and high-performance digital solutions.
 
-<img align="right" alt="Coding" width="280" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Developer" width="250" height="180" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 - <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="20px"> Building modern web applications with **ASP.NET Core** & **MEAN Stack**
 - <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="20px"> Crafting **Business Intelligence dashboards** with Power BI
@@ -120,9 +120,9 @@ Design Patterns • Unit Testing • Clean Architecture
   <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="Connect GIF" width="300">
   
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrahmanmodather32@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedInProfile)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourGitHubUsername)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdelrahman-modather)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdelrahman-Modather)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://yourportfolio.com](https://rawcdn.githack.com/Abdelrahman-Modather/Personal/008bcd7bb10d791bfae17193edae43c09b635e28/index.html))
 </div>
 
 ---
@@ -133,7 +133,7 @@ Design Patterns • Unit Testing • Clean Architecture
   ### Thanks for visiting! 
   **Keep pushing boundaries and building the future!**
   
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=brightgreen&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Abdelrahman-Modather&color=brightgreen&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
